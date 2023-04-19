@@ -17,7 +17,7 @@ As a full-stack developer and software engineer, Kent has a vast range of skills
 
 Apart from development, Kent also boasts a deep understanding of data analytics, using data-driven insights to optimize processes, improve user experiences, and inform strategic decision-making.
 
-Collaborations and Projects
+## Collaborations and Projects
 
 Kent's portfolio showcases his versatility and commitment to excellence. Some of his most notable projects include:
 
