@@ -10,7 +10,7 @@ You probably didn't know that. My parents didn't know that and why should they, 
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/bvim4rsNHkQ" width="100%" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/bvim4rsNHkQ" width="100%" height="600px" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
