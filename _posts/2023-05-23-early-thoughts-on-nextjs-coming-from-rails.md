@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "# Early Thoughts on Next.js Coming from Ruby on Rails"
+title: "Early Thoughts on NextJS Coming from Ruby on Rails"
 date: 2023-05-23 20:49:35 -0400
 ---
-
-# Early Thoughts on Next.js Coming from Ruby on Rails
 
 I have been a Ruby on Rails developer since the pre 1.0 days and truly do love the framework and all it has to offer. However, for those paying attention, around the time of Rails 4-5ish area the growing power of React and Node was becoming overwhealming and while DHH and Basecamp were still driving a ton of innovation on the front-end with their Basecamp.com re-write and the addition of webpacker, it became clear that the Rails way was falling short when compared to tools like React.
 
