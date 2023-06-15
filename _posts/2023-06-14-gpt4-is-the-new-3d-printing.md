@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GPT4 is the new 3D Printing"
-date: 2023-04-22 20:49:35 -0400
+date: 2023-06-14 20:49:35 -0400
 ---
 
 There are always new buzzwords and concepts that capture our attention. GPT-4 has been one of the most talked-about developments in the field of artificial intelligence. However, as I look at the trajectory of GPT-4, it's worth comparing it to a previous moment in tech history: the 3D printing boom of a decade ago.
