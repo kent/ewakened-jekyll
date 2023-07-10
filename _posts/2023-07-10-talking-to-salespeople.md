@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I take the call"
-date: 2023-07-04 20:49:35 -0400
+date: 2023-07-10 20:49:35 -0400
 ---
 
 Lately, I've started answering sales calls. Yes, those unexpected interruptions that occur just as you're settling into work. As a father and husband, I never set my phone to Do Not Disturb or Focus mode, as there's always the underlying fear of a call from school or camp with news about my children. This leaves the field open for inside sales representatives to make their pitch.
