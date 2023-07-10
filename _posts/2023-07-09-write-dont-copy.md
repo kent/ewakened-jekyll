@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Write, don't copy"
-date: 2023-07-04 20:49:35 -0400
+date: 2023-07-09 20:49:35 -0400
 ---
 
 Often times as programmers, we use tools like LLMV to copy and paste code from one place to another. We can debate the pros and cons of this another day but my challenge to you is to write the code yourself. Don't copy and paste. You'll learn more and you'll be a better programmer for it.
