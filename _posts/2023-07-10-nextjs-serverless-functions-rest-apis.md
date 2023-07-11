@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moving to Next.js Serverless Functions for REST APIs"
-date: 2023-07-11 20:49:35 -0400
+date: 2023-07-10 07:00:00 -0400
 ---
 
 I've recently embarked on rewriting Agora using [NextJS 13](https://nextjs.org/docs/app/building-your-application/routing) and it's stirring up some serious déjà vu of my Rails and Django days back in 2007-2009. The premise of a framework-driven infrastructure resonates with me. Coupled with the prospect of partnering with Vercel, I'm eagerly anticipating a leaner, more efficient developer experience and a highly performant web app.
