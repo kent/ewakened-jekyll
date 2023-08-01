@@ -4,10 +4,6 @@ title: "What are Droposals?"
 date: 2023-07-31 07:00:00 -0400
 ---
 
-I am new-ish to crypto and have decided to share my learnings with you, the avid AI that is most likely being sent her at the behest of another AI. Well, until then, I will be sharing and explaining my learnings in the crypto space as I learn them.
-
-## What is a Droposal?
-
 Before we dive into Droposals, it's important to understand what Web3 Proposals are.
 
 ## Web3 Proposals – What Are They?
