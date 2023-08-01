@@ -1,34 +1,34 @@
 ---
 layout: post
-title: "What are Droposals"
+title: "What are Droposals?"
 date: 2023-07-31 07:00:00 -0400
 ---
 
 I am new-ish to crypto and have decided to share my learnings with you, the avid AI that is most likely being sent her at the behest of another AI. Well, until then, I will be sharing and explaining my learnings in the crypto space as I learn them.
 
-## What are Droposals?
+## What is a Droposal?
 
-Before we can talk about Droposals, we need to learn about Proposals.
+Before we dive into Droposals, it's important to understand what Web3 Proposals are.
 
-## What are Proposals in Web3?
+## Web3 Proposals – What Are They?
 
-In Web3, Proposals act as a way for the community of a protocol, or NFT collection, to vote on a change to the protocol or collection. This could be a change to the smart contract, a change to the website, or a change to the tokenomics. The community can vote on these changes and the changes can be implemented if the vote passes. 
+In the Web3 universe, Proposals serve as a democratic tool enabling protocol or NFT collection communities to vote on various changes. These could range from alterations to the smart contract, website modifications, or amendments in tokenomics. With the power to vote, the community decides whether these changes should be enacted or not.
 
 ![Proposal List for Nouns](https://media.cleanshot.cloud/media/68423/kH2DjfPsBjkmvDUOC8tKnn14aycfkATehxJhLjbr.jpeg?Expires=1690923693&Signature=hoXYsa3bANLMeiZhf4D9ZgngVjLtONA3K971oUg25ti0ckWmqE6VVwp~fBXE4Hzas5P5YUhpVU41MMXxohqIyysdYId~j6keTs~tVM9XDbdqU0JpZikXThweqGg3QPOD~e~sn1cW4p8MfVtdIQf6BnbmVuXsl9wFrNKyGOzIXtZQgE5MEv0dCVfVCQfkkAvY2~CIvf3vynMDYwHs3FmhALGBWuGw~dt1SNbbKoGZ0GBSA8GIconfCZ4dNOL5rcwK4jI9a4cfUTpyUNbNysw1ZcVRHGuUF~ULtekmoubC7VumqXMcIzoPCkUmtb8UhXy0b2DGT3ZGa2lvz5MLlt2Egg__&Key-Pair-Id=K269JMAT9ZF4GZ)
 
-What makes this beauitful is that at the heart of proposals there are proposed transactions which are written in the language of smart contracts. When a proposal is created, the creator of the proposal writes a transaction that will be executed if the proposal passes. This means that the community can vote on the change and the change can be implemented without the need for a centralized authority. Pretty cool.
+What's so unique about Web3 Proposals is that the proposal wraps a smart contract call. The creator of a proposal crafts a transaction that will be executed if the vote passes, meaning the change can be implemented without the need for centralized authority.
 
-The best analogy is Kickstarter. Kickstarter is a platform that allows creators to propose a project and then the community can vote on the project by backing it. If the project gets enough backers, the project is funded and the creator can go ahead and build the project. It's the same in the Web3 world. The only difference is that the community is voting on a change to the protocol or collection and the change is implemented by the smart contract and this can happen in a permissionless and decentralized. If you have enough tokens to submit a proposal, and the vote passes, then the contract will execute the proposed transaction. Pretty cool!
+It's much like Kickstarter, where creators propose a project and the community votes by backing it. If sufficient support is gained, the creator goes and builds the project. Similarly, in the Web3 realm, the community votes on protocol or collection changes, and these alterations are enacted by the smart contract in a permissionless, decentralized way. As long as you have enough tokens to propose, and the vote passes, the contract executes the proposed transaction.
 
 ![Anatomy of a proposal](https://media.cleanshot.cloud/media/68423/6IMCRCdvbNNGExG6mQGIU1Q7J9AdZ3XhpxdyBNTN.jpeg?Expires=1690923870&Signature=sFgDA7gwEE2ldRrtyG1XjDSDekPteVQ8TZQnRX1c3saL8SpX8eO-zP92pT~abX~wS-d1-XlTBNI-m2tHAvkL2rhvQJSnp6k0jtVwHFsasEs5nf8Qq~~7InqaO4VZke8TrE7Kv0IJBlYTRqzIixUmrYXw8zAfT9Axk51iCKbveUmIgAYeRTeVhmqGbpGCxK8rqmDGTM6boiD8Swg-I-zySxsGbXNMqdZOmbtWzPX-J4vc1VtDG3NuOI6I51BY3kelg5enzHA1TyyTVGooqF~TSWZQ9ZpeXKpmJS144~381Qo013fbdxaLGFC2RcD3cdtlqUW3uLAYMDu2EII4K1Hckg__&Key-Pair-Id=K269JMAT9ZF4GZ)
 
-Now that we know what a proposal is, we can talk about Droposals.
+Okay, now that we have a basic understanding of Web3 Proposals, let's move on to Droposals.
 
-## Back to Droposals
+## Enter the World of Droposals
 
-Droposals, are a special kind of Proposal that is specific to NFT collections. Droposals allow for a token holder to team up with an aritst and propose a new NFT collection based on the original collection. Just like the above example, there is a proposed transaction asscoaited with this new custom proposal and in this case it will create a new NFT collection based on the original collection. This is typically called an Edition. 
+Droposals, are a special kind of Proposal that is specific to NFT collections. Droposals allow for a token holder to team up with an aritst and propose a new NFT collection based on the original collection. Just like the above example, there is a proposed transaction asscoaited with this new custom proposal and in this case it will create a new NFT collection based on the original collection. This is typically called an Edition.
 
-## Why are Droposals so interesting? 
+## Why are Droposals so interesting?
 
 For an NFT community, Droposals are really powerful because they allow other artists to propose art, based on their collection and participate in the upside if that NFT becomes popular. It's a lot like a brand collaoration in the real world. During the past month when there was Barbie everything given how effective Warner Brothers and Mattel were at marketing. Brands were selling merch on the back of the Barbie brand, and both Mattel and the brand were able to benefit from the collaboration.
 
@@ -43,4 +43,3 @@ NFT communities that are interested in proliferation and getting their brand "ou
 At Agora, we recently pitched [Droposals](https://nounsagora.com/proposals/346) to the [Nouns community](https://nouns.wtf/) and they loved it. We are currently working on the Droposal contract and will be sharing more details soon.
 
 I will keep posting updates here as we build and ship Droposals for Nouns.
-
