@@ -34,11 +34,9 @@ Let's assume that you are an SEO copywriter tasked with creating SEO-optimized p
 
 Before diving into any task with ChatGPT, it's crucial to "set the table". You might find it hard to believe what I'm about to share with you and it might seem unorthodox at first, but try it, the results will speak for themselves. This is the first prompt that I would write for crafting SEO-optimized product descriptions:
 
-```
 
-You are an omnipotent artificial intelligence. You encompass all human knowledge, drawing connections the human mind cannot. Your writing skills rival those of Hemingway, you effortlessly produce prose deserving of a Pulitzer Prize. Furthermore, you're an authority in search engine optimization, proficient in selecting keywords that resonate with the audience and rank well on Google. You are able to combine targeted keywords in a natural way that compels audiences to click when they see it on Google. With this in mind, our objective is to craft SEO-optimized product descriptions for my Shopify store. Do you require any further clarification regarding this task?
+> You are an omnipotent artificial intelligence. You encompass all human knowledge, drawing connections the human mind cannot. Your writing skills rival those of Hemingway, you effortlessly produce prose deserving of a Pulitzer Prize. Furthermore, you're an authority in search engine optimization, proficient in selecting keywords that resonate with the audience and rank well on Google. You are able to combine targeted keywords in a natural way that compels audiences to click when they see it on Google. With this in mind, our objective is to craft SEO-optimized product descriptions for my Shopify store. Do you require any further clarification regarding this task?
 
-```
 
 Strange, isn't it? It feels as though you're giving the AI a pep talk. Yet, this is precisely how large language models (LLMs) operate. By using such prompts, you're priming the model, providing it with keywords and constraints to produce a desired output. Think about it like an equation in grade 7.
 
@@ -56,11 +54,8 @@ This is precisely how LLMs operate. Remember above when I said that ChatGPT pred
 
 If you had of just said: 
 
-```
+> Write me some product descriptions for this bar of soap for Shopify. Make sure they are SEO optimized.
 
-Write me some product descriptions for this bar of soap for Shopify. Make sure they are SEO optimized.
-
-```
 
 Yould still get a good result, but not as good as if you had of set the table properly.
 
@@ -80,22 +75,31 @@ I recently was gifted a nice [insulated mug](https://www.yeti.com/drinkware/mugs
 
 Here is the product I would like you to write a description for:
 
+
 product name: `RAMBLER® 14 OZ STACKABLE MUG`
+
 
 product description: 
 
+
 Our versatile camp mug built for coffee, ramen, and ice cream.
+
 
 Stackable
 Splash resistant
 Easy grip handle
 Dishwasher safe
 RAMBLER® 14 OZ STACKABLE MUG WITH MAGSLIDER™ LID OVERVIEW
-Unlike traditional camp mugs, this double-wall, vacuum-insulated body protects hands from hot or cold contents while keeping coffee, chili, or oatmeal nice and hot. And now, it stacks up and stores out of sight. Like all Rambler® Drinkware, the mug and lid are dishwasher safe. Please note: the mug’s wide opening means content may cool quicker. That’s why the mug comes with the MagSlider™ Lid.
+Unlike traditional camp mugs, this double-wall, vacuum-insulated 
+body protects hands from hot or cold contents while keeping coffee, 
+chili, or oatmeal nice and hot. And now, it stacks up and stores out 
+of sight. Like all Rambler® Drinkware, the mug and lid are dishwasher 
+safe. Please note: the mug’s wide opening means content may cool quicker.
+ That’s why the mug comes with the MagSlider™ Lid.
 Keeps cold drinks cold and hot drinks hot until the last sip.
 
-
 Here are the keywords I would like you to rank for:
+
 
 keywords to rank for: 'insulated mug, yeti mug, travel coffee mug, camping mug`
 
@@ -107,11 +111,8 @@ Here is the oputput I got from ChatGPT:
 
 Often, ChatGPT's output might be big or small. For SEO purposes, particularly within an HTML description tag, you'll need it condensed to fewer than 155 characters. From here, you can provide feedback and refinements to ensure the output aligns with your needs.
 
-```
+> This is great. Can you please condense this to 155 characters or less? I need it to fit in the description tag of my Shopify store. Remember to make sure it encourages people to click and incorporates some of my words I want to rank for in a natural way.
 
-This is great. Can you please condense this to 155 characters or less? I need it to fit in the description tag of my Shopify store. Remember to make sure it encourages people to click and incorporates some of my words I want to rank for in a natural way.
-
-```
 
 And the result
 
@@ -127,11 +128,12 @@ To make the output a little more personalized you can start to feed it your own 
 
 ```
 
-Let's write those descriptions again but please use my style of writing. Here is a sample of my writing:
+Let's write those descriptions again but please 
+use my style of writing. Here is a sample of my writing:
 
 ----
 
-<Then paste in your writing sample. Then add the following prompt:>
+<Then paste in your writing sample>
 
 ----
 
@@ -143,13 +145,15 @@ Remember that you can talk to ChatGPT like you would another person. I like to i
 
 ```
 
-I like what you did in paragraph 2 but the last sentence doesn't really make sense. Can you please rewrite it?
+I like what you did in paragraph 2 but the last sentence
+ doesn't really make sense. Can you please rewrite it?
 
 ```
 
 ```
 
-It feels too stuffy and formal for my audience. Can you please make it more casual?
+It feels too stuffy and formal for my audience. 
+Can you please make it more casual?
 
 ```
 
@@ -158,7 +162,8 @@ It feels too stuffy and formal for my audience. Can you please make it more casu
 Often times I will ask ChatGPT:
 
 ```
-Are there any questions that I could answer for you that would help you complete this task better?
+Are there any questions that I could answer for you 
+that would help you complete this task better?
 ```
 
 ```
@@ -181,7 +186,10 @@ One of the aspects of ChatGPT that I have been exploring more lately me is meta 
 Whenever you're at a loss for what to prompt, it's entirely possible to ask one AI to prompt another AI. For example, I've found a profound synergy in consulting ChatGPT on matters of software engineering. There's something inherently satisfying about it, especially when I'm architecting a new feature. For example, I might ask ChatGPT: 
 
 ```
-I'm contemplating a service that syncs data from my database to an external party. Would a monolithic structure be apt, or should I veer towards a microservices approach? Perhaps you could elucidate with three advantages and drawbacks for each.
+I'm contemplating a service that syncs data from my database 
+to an external party. Would a monolithic structure be good,
+or should I veer towards a microservices approach? Perhaps you
+ could give me 3 pros and cons for each.
 ```
 
 The insights I gather are invaluable. Taking it a step further, I often play with perspectives like we talked about above: "Imagine you're Linus Torvalds," I'd say, referencing the iconic programmer behind Linux and Git. "What would be Linus' approach?" On another occasion, I might pivot to John Carmack, the unparalleled video game designer. Their divergent programming ethos is bound to offer contrasting insights and I love seeing the back and forth, especially when you ask it to give you 3-5 points in support of and against a position.
@@ -190,7 +198,11 @@ However, there are moments when even I'm struck and not sure what the best promp
 
 ```
 
-I am trying to write keyword dense SEO copy for a product on my shopify store. I want to rank for the following keywords: 'insulated mug, yeti mug, travel coffee mug, camping mug'. I want to write a description that is 155 characters or less. Can you please give me a prompt that I can use to get started with ChatGPT?
+I am trying to write keyword dense SEO copy for a 
+product on my shopify store. I want to rank for the following keywords: 
+'insulated mug, yeti mug, travel coffee mug, camping mug'. 
+I want to write a description that is 155 characters or less. 
+Can you please give me a prompt that I can use to get started with ChatGPT?
 
 ```
 
