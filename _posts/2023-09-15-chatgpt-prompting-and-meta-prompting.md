@@ -103,7 +103,7 @@ keywords to rank for: 'insulated mug, yeti mug, travel coffee mug, camping mug`
 
 Here is the oputput I got from ChatGPT:
 
-![GPT-Result-for-product-description](../assets/gpt-result-product-description-long.png)
+![GPT-Result-for-product-description](/assets/gpt-result-product-description-long.png)
 
 Often, ChatGPT's output might be big or small. For SEO purposes, particularly within an HTML description tag, you'll need it condensed to fewer than 155 characters. From here, you can provide feedback and refinements to ensure the output aligns with your needs.
 
@@ -115,7 +115,7 @@ This is great. Can you please condense this to 155 characters or less? I need it
 
 And the result
 
-![GPT-Result-for-product-description-shorter](../assets/gpt-description-shorter-results.png)
+![GPT-Result-for-product-description-shorter](/assets/gpt-description-shorter-results.png)
 
 Now, you've got 3 variations of product descriptions that include the keywords you want to rank for.
 
@@ -194,7 +194,7 @@ I am trying to write keyword dense SEO copy for a product on my shopify store. I
 
 ```
 
-![bard-meta-prompting](../assets/bard-meta-prompting.png)
+![bard-meta-prompting](/assets/bard-meta-prompting.png)
 
 
 Bard, without fail, provides a prompt. 
